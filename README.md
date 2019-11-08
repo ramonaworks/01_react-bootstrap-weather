@@ -1,4 +1,4 @@
-# Link:
+# Links:
 
  
-#[ Work in Progress ](https://ramonaworks.github.io/01_react-bootstrap-weather/index.html "View").
+[Work in Progress](https://ramonaworks.github.io/01_react-bootstrap-weather/index.html).
